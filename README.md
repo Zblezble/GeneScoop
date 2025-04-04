@@ -26,3 +26,5 @@ Detect and extract multiple gene sequences from multiple GenBank files.
 ## 🛠️ Usage
 
 The code is formatted for use with Jupyter Lab
+
+GeneScoop is released under a BSD-3-Clause license. See LICENSE for more details.
