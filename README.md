@@ -6,7 +6,8 @@ Detect and extract multiple gene sequences from multiple GenBank files.
 
 ## 📂 Contents
 
-- GeneScoop.ipynb – The code itself
+- GeneScoop.py – The code itself
+- GeneScoop.ipynb – The code formatted for Jupyter Lab (how I used it)
 - LICENSE – Licensing information  
 - README.md – This file
 - ncbi_queries.md – Example of NCBI queries used to download genome files (using [ncbi-acc-download](https://github.com/kblin/ncbi-acc-download), or to download sequences using [RESCRIPt](https://github.com/bokulich-lab/RESCRIPt)) which can then be subjected to GeneScoop, same keywords can be then used in the code at `product_and_note_keywords`
